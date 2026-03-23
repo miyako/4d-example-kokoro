@@ -1,2 +1,1 @@
-# 4d-example-kokoro
-Kokoro in ONNX
+## [hexgrad/Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
