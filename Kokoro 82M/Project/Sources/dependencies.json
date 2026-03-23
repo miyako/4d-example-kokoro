@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"onnx genai": {
+			"github": "miyako/onnx-genai",
+			"version": "latest"
+		},
+		"wavplay": {
+			"github": "miyako/wavplay",
+			"version": "latest"
+		}
+	}
+}
